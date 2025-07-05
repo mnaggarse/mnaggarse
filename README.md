@@ -20,3 +20,15 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack web application
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 <br />
+
+#
+
+### 📬 Contact Me
+<div>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin"  />
+  </a>
+</div>
