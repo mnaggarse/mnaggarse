@@ -6,18 +6,30 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
 #
 
 ### 🛠️ Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,tailwind,mongodb,postgresql,sqlite,git,linux)](https://skillicons.dev)
+<div>
+  <a href="#"><img align="left" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+  <a href="#"><img align="left" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+  <a href="#"><img align="left" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+  <a href="#"><img align="left" alt="TypeScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+  <a href="#"><img align="left" alt="NodeJS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="#"><img align="left" alt="Express" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></a>
+  <a href="#"><img align="left" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="#"><img align="left" alt="PostgreSQL" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+  <a href="#"><img align="left" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
+  <a href="#"><img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="#"><img align="left" alt="Linux" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+</div>
+<br />
 
 #
 
 ### 📬 Contact Me
 <div>
   <a href="mailto:mnaggarse@gmail.com">
-    <img align="left" style="padding-right:10px;" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
+    <img align="left" style="padding-right:5px;" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="#">
-    <img align="left" style="padding-right:10px;" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin"  />
+  <a href="https://t.me/codinngar">
+    <img align="left" style="padding-right:5px;" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram"  />
   </a>
 </div>
 <br />
