@@ -7,7 +7,7 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,postgresql,sqlite,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,tailwind,mongodb,postgresql,sqlite,git,linux)](https://skillicons.dev)
 
 #
 
