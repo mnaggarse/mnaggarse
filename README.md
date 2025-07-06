@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahmoud Elnaggar
 
 ### 🧑‍💻 About Me
-I'm Mahmoud Elnaggar, a developer who enjoys building full-stack web applications. I work mainly with JavaScript, TypeScript, React, and Node.js, and I'm also exploring backend development with Express and Spring Boot. I use SQL databases like PostgreSQL, SQLite, and MariaDB. I like solving problems and learning more about software design, clean code, and development best practices. Currently, I'm focusing on improving my skills in backend development, mobile development with React Native, and deploying apps to the cloud. I'm also using Fedora Linux as my main operating system. I'm always open to learning, collaboration, and working on useful projects.
+I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications and creating useful, practical projects. I'm currently focused on sharpening my skills through personal work and contributing to open source whenever possible. I always aim to write clean, understandable code and keep learning something new every day.
 
 #
 
