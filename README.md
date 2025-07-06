@@ -13,7 +13,7 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
 
 ### 📬 Contact Me
 <div>
-  <a href="#">
+  <a href="mailto:mnaggarse@gmail.com">
     <img align="left" style="padding-right:10px;" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
   <a href="#">
