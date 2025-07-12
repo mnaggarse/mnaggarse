@@ -33,7 +33,10 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
     <img align="left" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
   <a href="https://t.me/codinngar">
-    <img align="left" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram"  />
+    <img align="left" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=24A1DE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram"  />
+  </a>
+  <a href="https://wa.me/201030740274">
+    <img align="left" src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25d366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Whatsapp"  />
   </a>
 </div>
 <br />
