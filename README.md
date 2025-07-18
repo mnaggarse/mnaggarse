@@ -7,8 +7,6 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
 
 ### 🛠️ Languages and Tools
 <div>
-  <a href="#"><img align="left" alt="JAVA" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
-  <a href="#"><img align="left" alt="Spring" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /></a>
   <a href="#"><img align="left" alt="HTML" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
   <a href="#"><img align="left" alt="CSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
   <a href="#"><img align="left" alt="JavaScript" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
@@ -18,6 +16,7 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
   <a href="#"><img align="left" alt="React" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="#"><img align="left" alt="TailwindCSS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /></a>
   <a href="#"><img align="left" alt="ViteJS" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /></a>
+  <a href="#"><img align="left" alt="Supabase" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
   <a href="#"><img align="left" alt="PostgreSQL" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
   <a href="#"><img align="left" alt="SQLite" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
   <a href="#"><img align="left" alt="Git" width="30px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
