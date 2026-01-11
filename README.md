@@ -32,7 +32,7 @@ I'm Mahmoud Elnaggar, a developer who enjoys building full-stack applications an
   <a href="mailto:mnaggarse@gmail.com">
     <img align="left" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"  />
   </a>
-  <a href="https://t.me/codinngar">
+  <a href="https://t.me/mnaggarse">
     <img align="left" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=24A1DE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram"  />
   </a>
   <a href="https://wa.me/201030740274">
